@@ -1,4 +1,4 @@
-package com.acme.core.compators;
+package com.acme.core.comparator;
 
 import com.acme.core.Agency;
 import java.util.Comparator;

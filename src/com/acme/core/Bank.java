@@ -1,6 +1,6 @@
 package com.acme.core;
 
-import com.acme.core.compators.AgencyComparator;
+import com.acme.core.comparator.AgencyComparator;
 import java.util.Collection;
 import java.util.TreeSet;
 
